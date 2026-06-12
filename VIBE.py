@@ -1,5 +1,8 @@
-# Student Grade Calculator
-# CIS261 - Student Records and Grade Management
+#Samuel Barco
+#CIS261
+#WK10 VIBE Coding
+#This program was created with assistance from VIBE/GitHub Copilot Agent.
+#The code was reviewed, tested, and corrected to meet the Week 10 lab requirements.
 
 import os
 
